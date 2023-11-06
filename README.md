@@ -17,3 +17,5 @@ WHEN I view the heading attributes
 THEN they fall in sequential order
 WHEN I view the title element
 THEN I find a concise, descriptive title
+
+deployed application - https://duweri.github.io/01-HTML-GIT-CSS-CoderefactorDanielle/
